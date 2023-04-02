@@ -1,6 +1,6 @@
-game>starterplayer>startercharacterscripts
+# game>starterplayer>startercharacterscripts
 
-LocalScript
+# LocalScript
 
 To use: create a Folder in workspace called Areas, group any parts called Area into a model called Area and place them into the Areas Folder with the decided audios as children, supports multiple audios at once no problem.
 
