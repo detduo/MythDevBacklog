@@ -1,6 +1,6 @@
-game>starterplayer>startercharacterscripts
+# game>starterplayer>startercharacterscripts
 
-LocalScript
+# LocalScript
 
 Simulates a slight wobbling motion in the camera's angle. It achieves this by updating the camera's coordinate frame every frame with a small rotation along the z-axis that varies over time according to a sine wave.
 
