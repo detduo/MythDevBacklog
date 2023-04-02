@@ -1,6 +1,6 @@
-game>starterplayer>starterplayerscripts
+# game>starterplayer>starterplayerscripts
 
-LocalScript
+# LocalScript
 
 The script begins by defining some settings such as the amount of blur, the blur power, the maximum blur size, the camera object, and the blur effect object.
 
