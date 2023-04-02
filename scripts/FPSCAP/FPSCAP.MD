@@ -1,6 +1,6 @@
-game>starterplayer>starterplayerscripts
+# game>starterplayer>starterplayerscripts
 
-LocalScript
+# LocalScript
 
 The script works by continuously looping while waiting for the RunService.Heartbeat event to fire, which occurs once per frame. When the event fires, the script calculates the time that has elapsed since the last frame was rendered and updates the FrameTime variable accordingly.
 
