@@ -1,3 +1,7 @@
+game>starterplayer>starterplayerscripts
+
+LocalScript
+
 The script begins by defining some settings such as the amount of blur, the blur power, the maximum blur size, the camera object, and the blur effect object.
 
 Next, it creates a connection to the Changed event of the Workspace object. Whenever the CurrentCamera property of the workspace changes, the script updates the camera variable and checks if the blurEffect is still valid. If it's not, it creates a new one and sets it as a child of the camera.
