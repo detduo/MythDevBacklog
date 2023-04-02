@@ -1,6 +1,6 @@
-game>StarterGui
+# game>StarterGui
 
-LocalScript
+# LocalScript
 
 
 The script starts by getting references to various objects and services, including the local player, mouse, camera, and UserInputService.
