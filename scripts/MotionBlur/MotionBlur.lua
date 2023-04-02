@@ -1,4 +1,3 @@
-```lua
 --// Jaylen was here
 
 --// Settings
@@ -44,4 +43,3 @@ game:GetService("RunService").Heartbeat:Connect(function()
 
 	lastLookVector = currentLookVector
 end)
-```
