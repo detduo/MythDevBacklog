@@ -1,6 +1,6 @@
-game>starterplayer>starterplayerscripts
+# game>starterplayer>starterplayerscripts
 
-LocalScript
+# LocalScript
 
 The script is using the BindToRenderStep method provided by the RunService to execute a function on every frame render of the game.
 
